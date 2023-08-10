@@ -11,26 +11,26 @@
 
 # Main Stack = { <br/>
 __Frontend: {<br/>
-_______### JavaScript(TypeScript), <br/>
-_______### React js <br/>
-_______### React library: { <br/>
+_______ JavaScript(TypeScript), <br/>
+_______ React js <br/>
+_______ React library: { <br/>
 _________React-hook-form <br/>
 _________React-Query <br/>
 _________React-router-dom <br/>
 _________React-redux <br/>
 _______}
-_______### Redux Toolkit <br/>
-_______### Scss <br/>
-_______### Axios <br/>
-_______### Material ui <br/>
-_______### Next js <br/>
+_______ Redux Toolkit <br/>
+_______ Scss <br/>
+_______ Axios <br/>
+_______ Material ui <br/>
+_______ Next js <br/>
 _____}
-__Backend: { <br/> 
-_______### Node js <br/>
-_______### Express Js <br/>
-_______### Mongo DB <br/>
-_______### Jwt <br/>
-_______### Nest js <br/>
+__<h2>Backend</h2>: { <br/> 
+_______ Node js <br/>
+_______ Express Js <br/>
+_______ Mongo DB <br/>
+_______ Jwt <br/>
+_______ Nest js <br/>
 _______}
 }
 
