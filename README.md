@@ -6,6 +6,8 @@
 ## About me
 I'm 16 years old, web dev from Russia.
 
+![ezgif-3-d0c71b7801](https://github.com/zxcivan07/zxcivan07/assets/108341880/a2c87077-f765-4b03-a983-b41d47c785f8)
+
 
 ## Main Stack = { <br/>
 __### Frontend: {<br/>
