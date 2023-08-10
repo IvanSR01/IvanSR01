@@ -31,7 +31,6 @@ _______ Express Js <br/>
 _______ Mongo DB <br/>
 _______ Jwt <br/>
 _______ Nest js <br/>
-_______}
 <h2>}</h2>
 
 ![videoplayback (online-video-cutter com) (1)](https://github.com/zxcivan07/zxcivan07/assets/108341880/b4b4c6d9-432d-4bad-91b7-8158e9a529ae)
