@@ -1,36 +1,36 @@
-# <h1>Hi, I'm Ivan Sryvkin</h1>
+# Hi, I'm Ivan Sryvkin
 
 ![крутые петухи](https://github.com/zxcivan07/zxcivan07/assets/108341880/59d7b247-5e5c-41eb-b73b-2f13a4b1bbc2)
 
 
-## <h2>About me</h2>
-I'm 16 years old, web dev from Russia.
+# About me
+## I'm 16 years old, web dev from Russia.
 
 ![21 (1)](https://github.com/zxcivan07/zxcivan07/assets/108341880/99689891-c277-4eb3-ab99-b8d8348718e1)
 
 
-## Main Stack = { <br/>
-__### Frontend: {<br/>
-_______JavaScript(TypeScript), <br/>
-_______React js <br/>
-_______React library: { <br/>
+# Main Stack = { <br/>
+__## Frontend: {<br/>
+_______### JavaScript(TypeScript), <br/>
+_______### React js <br/>
+_______### React library: { <br/>
 _________React-hook-form <br/>
 _________React-Query <br/>
 _________React-router-dom <br/>
 _________React-redux <br/>
 _______}
-_______Redux Toolkit <br/>
-_______Scss <br/>
-_______Axios <br/>
-_______Material ui <br/>
-_______Next js <br/>
+_______### Redux Toolkit <br/>
+_______### Scss <br/>
+_______### Axios <br/>
+_______### Material ui <br/>
+_______### Next js <br/>
 _____}
-__### Backend: { <br/> 
-_______Node js <br/>
-_______Express Js <br/>
-_______Mongo DB <br/>
-_______Jwt <br/>
-_______Nest js <br/>
+__## Backend: { <br/> 
+_______### Node js <br/>
+_______### Express Js <br/>
+_______### Mongo DB <br/>
+_______### Jwt <br/>
+_______### Nest js <br/>
 _______}
 }
 
