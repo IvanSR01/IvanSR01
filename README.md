@@ -1,5 +1,7 @@
 # Hi, I'm Ivan Nelson 
 
+![крутые петухи](https://github.com/zxcivan07/zxcivan07/assets/108341880/59d7b247-5e5c-41eb-b73b-2f13a4b1bbc2)
+
 
 ## About me
 I'm 16 years old, web dev from Russia.
