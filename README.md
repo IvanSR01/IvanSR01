@@ -6,22 +6,32 @@
 ## About me
 I'm 16 years old, web dev from Russia.
 
-![ezgif-3-d0c71b7801](https://github.com/zxcivan07/zxcivan07/assets/108341880/a2c87077-f765-4b03-a983-b41d47c785f8)
+![21 (1)](https://github.com/zxcivan07/zxcivan07/assets/108341880/99689891-c277-4eb3-ab99-b8d8348718e1)
 
 
 ## Main Stack = { <br/>
 __### Frontend: {<br/>
-______JavaScript(TypeScript), <br/>
-______React js <br/>
-______React library: { <br/>
-________React-hook-form <br/>
-________React-Query <br/>
-________React-router-dom <br/>
-________React-redux <br/>
-______}
-______Redux Toolkit <br/>
-______Scss <br/>
-______Axios <br/>
-______Material ui <br/>
-______Next js <br/>
+_______JavaScript(TypeScript), <br/>
+_______React js <br/>
+_______React library: { <br/>
+_________React-hook-form <br/>
+_________React-Query <br/>
+_________React-router-dom <br/>
+_________React-redux <br/>
+_______}
+_______Redux Toolkit <br/>
+_______Scss <br/>
+_______Axios <br/>
+_______Material ui <br/>
+_______Next js <br/>
 _____}
+__### Backend: { <br/> 
+_______Node js <br/>
+_______Express Js <br/>
+_______Mongo DB <br/>
+_______Jwt <br/>
+_______Nest js <br/>
+_______}
+}
+
+![videoplayback (online-video-cutter com) (1)](https://github.com/zxcivan07/zxcivan07/assets/108341880/b4b4c6d9-432d-4bad-91b7-8158e9a529ae)
