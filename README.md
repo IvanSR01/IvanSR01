@@ -24,7 +24,7 @@ _______ Scss <br/>
 _______ Axios <br/>
 _______ Material ui <br/>
 _______ Next js <br/>
-_____}
+<h2>}</h2>
 __<h2>Backend: { </h2><br/> 
 _______ Node js <br/>
 _______ Express Js <br/>
@@ -32,6 +32,6 @@ _______ Mongo DB <br/>
 _______ Jwt <br/>
 _______ Nest js <br/>
 _______}
-}
+<h2>}</h2>
 
 ![videoplayback (online-video-cutter com) (1)](https://github.com/zxcivan07/zxcivan07/assets/108341880/b4b4c6d9-432d-4bad-91b7-8158e9a529ae)
