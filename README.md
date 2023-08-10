@@ -10,7 +10,7 @@
 
 
 # Main Stack = { <br/>
-__Frontend: {<br/>
+  <h2>Frontend: {</h2><br/>
 _______ JavaScript(TypeScript), <br/>
 _______ React js <br/>
 _______ React library: { <br/>
@@ -25,7 +25,7 @@ _______ Axios <br/>
 _______ Material ui <br/>
 _______ Next js <br/>
 _____}
-__<h2>Backend</h2>: { <br/> 
+__<h2>Backend: { </h2><br/> 
 _______ Node js <br/>
 _______ Express Js <br/>
 _______ Mongo DB <br/>
