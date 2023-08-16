@@ -20,7 +20,12 @@
 </p>
 
 <h2 align="center">🌐 Connect with me:</h2>
-
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ElonMusk2002&theme=github_dark">
+  <br/>
+  <br/>
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 <p align="center">
   <a href="https://t.me/NelsinIv">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
@@ -28,4 +33,3 @@
 </p>
 
 
-![videoplayback (online-video-cutter com) (1)](https://github.com/zxcivan07/zxcivan07/assets/108341880/b4b4c6d9-432d-4bad-91b7-8158e9a529ae)
