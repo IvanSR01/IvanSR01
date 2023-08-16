@@ -13,6 +13,8 @@ I am gearing up for a long and successful journey in the world of IT and am read
 I am excited to share my experience, learn new things, and collaborate with like-minded individuals. Feel free to get in touch with me, and let's work together to make the world of internet technologies even better!</h3>
 <!-- ## Latests reposit -->
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <h2 align="center">My Stack:</h2> 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
