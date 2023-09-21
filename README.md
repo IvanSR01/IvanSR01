@@ -10,7 +10,7 @@ On the other hand, on the backend, I am driven by solving complex problems and e
 
 I am gearing up for a long and successful journey in the world of IT and am ready to take on any challenges to reach new heights in my developer career.
 
-I am excited to share my experience, learn new things, and collaborate with like-minded individuals. Feel free to get in touch with me, and let's work together to make the world of internet technologies even better!</h3>
+I am excited to share my experience, learn new things, and collaborate with like-minded individuals. Feel free to get in touch with me, and let's work together to make the world of internet technologies even better !</h3>
 <!-- ## Latests reposit -->
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
