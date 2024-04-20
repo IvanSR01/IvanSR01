@@ -2,7 +2,7 @@
 
 
 <h2 align="center">About me:</h2>
-<h3 align="center">Hello! My name is Ivan, and I am 16 years old. I am a young and ambitious full-stack developer from Russia. The world of programming is not just a profession for me; it's a true passion that inspires me to create amazing and innovative things. My specialization is full-stack development, which means I have experience in both frontend and backend when it comes to creating web applications.
+<h3 align="center">Hello! My name is Ivan, and I am 21 years old. I am a young and ambitious full-stack developer from Russia. The world of programming is not just a profession for me; it's a true passion that inspires me to create amazing and innovative things. My specialization is full-stack development, which means I have experience in both frontend and backend when it comes to creating web applications.
 
 On the frontend, I love working with modern technologies such as HTML, CSS, JavaScript, and TypeScript. I am proficient in frameworks like React.js and Redux Toolkit, enabling me to create dynamic and scalable user interfaces. Additionally, I confidently use tools like Scss and Vite for more efficient and structured development. In projects that require server-side rendering, I prefer utilizing Next.js.
 
